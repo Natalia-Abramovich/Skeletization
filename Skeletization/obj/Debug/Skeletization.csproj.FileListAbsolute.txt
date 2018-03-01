@@ -1,0 +1,9 @@
+C:\Skeletization\Skeletization\bin\Debug\Skeletization.exe.config
+C:\Skeletization\Skeletization\obj\Debug\Skeletization.csprojResolveAssemblyReference.cache
+C:\Skeletization\Skeletization\obj\Debug\Skeletization.Properties.Resources.resources
+C:\Skeletization\Skeletization\obj\Debug\Skeletization.csproj.GenerateResource.Cache
+C:\Skeletization\Skeletization\bin\Debug\Skeletization.exe
+C:\Skeletization\Skeletization\bin\Debug\Skeletization.pdb
+C:\Skeletization\Skeletization\obj\Debug\Skeletization.Form1.resources
+C:\Skeletization\Skeletization\obj\Debug\Skeletization.exe
+C:\Skeletization\Skeletization\obj\Debug\Skeletization.pdb
